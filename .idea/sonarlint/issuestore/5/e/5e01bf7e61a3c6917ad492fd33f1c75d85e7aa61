@@ -1,0 +1,33 @@
+
+W	java:S1079"BConstructor has 12 parameters, which is greater than 7 authorized.(à¢Íˆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæñÃûÿÿÿÿ
+L
+java:S1854h"6Remove this useless assignment to local variable "dt".(‡×Ò
+Q
+java:S1854p"6Remove this useless assignment to local variable "de".(‘³÷¬úÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(è©ÀĞûÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ŒĞæë
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ŸÛœ§øÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ŠäĞ¢
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Óß†í
+M	java:S106["9Replace this use of System.out or System.err by a logger.(şì®h
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Å÷Ãòşÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ùº‘Şÿÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(Ï§íëøÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(£ÉÓ°
+=
+java:S1481h"'Remove this unused "dt" local variable.(‡×Ò
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(Œ´µéùÿÿÿÿ
+B
+java:S1481p"'Remove this unused "de" local variable.(‘³÷¬úÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Ì²²éùÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(¾…´øÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(úİ–£ùÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(¾…´øÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(ô·¥ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ“ŠÔúÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(–°Ì·
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ª´Ç¦ùÿÿÿÿ

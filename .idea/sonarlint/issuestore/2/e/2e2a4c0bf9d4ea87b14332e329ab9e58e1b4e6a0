@@ -1,0 +1,37 @@
+
+~
+java:S1192+"hDefine a constant instead of duplicating this literal "Deseja fazer mais alguma cadastro [S/N]" 4 times.(ë±‘
+
+java:S1192*"uDefine a constant instead of duplicating this literal "----------------------------------------------------" 8 times.(ÆÇâÈıÿÿÿÿ
+e
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±Ôû
+e
+java:S2095o"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­é’í
+b
+java:S2095Y"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(Úºî`
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ìÌ“ô
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÆË°ƒøÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆ¢É 
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Çö¼üÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ë±‘
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ë±‘
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ë±‘
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ë±‘
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ó»åÍ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(»‰‚Œ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(‰´î¥úÿÿÿÿ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÿëò«
+W	java:S125…"<This block of commented-out lines of code should be removed.(»ÇÿÒùÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(‡â•¼ûÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(½‘Ñ³
+ˆ
+java:S1130é"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å
